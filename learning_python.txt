@@ -1,0 +1,7 @@
+Em python podemos criar programas simples e complexos
+Em python podemos trabalhar com dados
+Em python podemos gerar listas e dicionarios
+Em python podemos construir classes e suas funcoes
+Em python podemos fazer operaçoes matematicas
+Em python podemos criar jogos 
+Em python podemos manipular arquivos
